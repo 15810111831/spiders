@@ -2,7 +2,371 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57031307-4d1c-4889-ac03-25a274d58993" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/TencentSpider/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/TencentSpider/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/TencentSpider/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/TencentSpider/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/TencentSpider/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/TencentSpider/spiders/tencent.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/tencentPosition.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TencentSpider/tencentPosition.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/.idea/douyu.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/douyu/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/douyu/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/douyu/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/douyu/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/douyu/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/douyu/spiders/douyumeinv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/1条咸鱼酥.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/233Ninosan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/34G污奶绵.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/36e白骨精.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/6hp要开心哦.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/799阿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/7soullove.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Aiu味周周.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Akikko.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Anna小伊洛.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/DD笨笨笨女人.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/DarkBlacklolita.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Dior丶小奶猫.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Doris桃瑞丝i.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/E姐姐.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Grace丶詩瑤.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/G奶三姐.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Ice小盒饭.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/JR嗷呜吃又又.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Miki酱酱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Miracle沐沐.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Mona娜小喵.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Ms哈妹儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Muu丶沐沐.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/None就是没有呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/OilRr易小蓉.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/PinkBaby的一天.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Pink蕾.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Polly流火.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Seven小十七er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/T媄九妹妹.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Yedda盼盼.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Yuer鱼儿呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Y瓜瓜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/ZA红牛.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/ZZ萌小庭.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Zero简羽丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Zooo妍妍.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Zora小琼.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/Zzz你琦哥.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/anguish麋鹿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/eve江正经.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/i依千万.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/i曾曾.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/miuni乔.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/mm小美夕.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/o小范范o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/o马卡农.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/seven灬姐.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/sweet的甜甜圈.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/violet柚子.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/wukelanF3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/wuli美寶没钱怼.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/xingxing0708.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/yakko猫尾娜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/yana今天可爱吗.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一凡凡凡凡凡呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一只南极星星.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一只咚咚怪.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一只少女沫.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一只聪明的羊丶丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一只蠢萌鹿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一只被贬下凡的仙女.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一块可可悦.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一眈.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/一颗怂丸子.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/丁丁小妖精a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/丁叮c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/三虎户外极限跑骚队.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/不羁放纵爱玉玉丶UK.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/东北炮小炮.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/中二少女呆呆.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/丹尼锅锅.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/乌克兰小逗包.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/乌克兰萌妹雅娜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/乐乐维C.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/乜之之.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/二倩丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/五岁半的饭宝儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/优默Yoyo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/会撩人的兮雅.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/佐一Zoey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你是一只母鸡m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你是四月吹来的风.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你的奶油桃.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你的小弟熊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你的狗蛋儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你的美兮呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/你的苏儿吖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/佳佳00布鲁根.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/偏偏er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/六月一妹妹.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/关晓羽.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/冯霄又又呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/准兒.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/刘喵喵喵丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/刘小鹿Eurphy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/刘梦萱儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/勤奋豆er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/北木原.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/十二月老铁.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/单老师大课堂.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/原味味儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/口口吕小妖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/叫我小花儿呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/叮当沫沫儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/吃可爱酱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/吃肉的鲸落.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/吃药药丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/吐吐好邪恶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/呀是你的宁宝.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/呆萌夏夏夏.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/哥斯拉和姐斯拉丶笑笑.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/喵喵Jeana.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/嘉儿Abby.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/嘉梨吖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/嘿米粒儿儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/四月的小甜羊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/团err.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/国服第一西西.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/夏天呀summer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/大乔妹妹吖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/大可爱冰冰.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/大猫moli.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/大魔王学院.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/天天甜不甜丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/夺命大雪花.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/女王陛下喵.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/奶罐怎么又饿了.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/她叫美惠.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/好多鱼宝宝呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/妆小玖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/姜小兆.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/娜姐J.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/婶儿Ls丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/媛媛屁屁呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/媛媛酱y.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/孟孟想天天吃火锅.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/宇宝儿啊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/安不宁丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/宋哈哈呀咿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/宛欣酱sun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小cherryj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小不点妹妹呐.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小亲亲ya.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小宇宙bbo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小小小呆萌a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小小甜7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小小草草莓莓.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小屁桃oo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小布丁3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小慈小慈.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小根儿呱呱呱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小橙西.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小泽aoi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小滚刀yo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小漫沙.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小热河吖灬.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小白鸽儿吖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小眼睛小眼睛阿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小米娜在梦游.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小美妞vivi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小肥肥必胜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小艾米CC.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小西吉大大.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小赖需要对你依赖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小阿哆一号.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小阿妞丫.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小阿蕾蕾蕾.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小雅er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/小骨98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/少女心的小野猫.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/少女轰炸机hh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/尖果儿丶July.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/就是尖尖儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/尹diudiu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/尼古丁会上瘾的痛.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/巴黎小梦you.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/废柴姑娘lm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/开飞船的花花.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/张咔嚓.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/心不在焉的33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/心宝xin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/心跳女孩打不溜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/总裁丹.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/惠子bling.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/想见见我的小熊嘛.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/慌慌樟vera.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/慢慢欧尼阿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/慧子hzn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/懒一丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/我是九十亿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/我是兴哥哥啊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/我的慧慧酱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/摩卡小仙女.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/撒个蕉.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/新主播曦子.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/新人韩乐童了解一下.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/方渺渺.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/易晓宝贝.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/昨晚最浪的胖彤er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/是你的小天使啊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/是你的小漫漫.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/是佩佩佩啊7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/是佳盈呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/是岚枫呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/晓晓yoo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/景恬恬恬.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/暴走萝莉李文静.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/朴西卡.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/李同学儿ar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/杨小妖baby.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/杨欧巴AI油条.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/林大师丶塔罗牌占卜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/林妹妹Jessie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/柒月儿hy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/柠猫儿rr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/桑尼芯大大.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/梦梦zzzzzzz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/梦萤Sama.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/楷楷哒.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/樱樱alice.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/樱樱子yinyin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/橘子狗QAQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/橙二宝Ya.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/欣欣欣er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/此晚晴乃声优也.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/每天吃不饱的力酱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/每天都要饿肚子.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/污大琳不污是平胸.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/没有了小酒窝.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/没陷儿汤圆.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/沫沫儿er.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/泡芙甜小心克洛伊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/波多野结瑶丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/浩家郡丶小浩哥.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/清风抚甜F.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/渝万丶巧巧.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/渝儿555.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/灵异污翠儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/灵魂歌手巫拉拉.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/爆炸的小宇宙灬.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/爱跳舞的沐沐小可爱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/猫喵与玫瑰.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/猫奶奶啊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/王子喜欢数字7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/王柚子呀呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/王涵涵超级可爱.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/王石柯柯.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/玥酱撒个娇.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/琳妹妹喜欢你.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/瓜瓜gea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/甜甜圈倪熙妍.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/生米呦.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/电竞范bb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/电话没响TT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/百变小豆子呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/皮皮酱小萌新.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/睡不醒的甜心.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/社会你hh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/社会你哒玲.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/禾宝mOOnN.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/秦晓蛋儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/章鱼小丸子baby.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/竺臻星.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/笨笨儿笨笨.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/糖糖小奶猫.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/糟了这是心动的一米.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/细敏姐姐最好看啦.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/绵绵0915.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/聪明的小胖丁.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/胖奇biubiubiu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/艾小遇00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/芥末Y新主播.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/花猫吖.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/花豹87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/苏欣糖Susu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/苏苏叫攻S.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/苹果姬Ipple.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/草莓味的谌谌.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/莎莉lee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/菟丝卡.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/萌萌哒的小玥玥.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/萌萌萌萌大宝宝.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/西野18601.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/谢五岁丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/豆儿豆儿豆儿豆儿豆儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/贝拉babe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/赵千万啊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/越女小迷糊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/软妹小九九丶.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/逍遥丶花花.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/透明的小雪球.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/野马大大.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/钻石女皇6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/长腿女王小甜甜.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/阿昕Zz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/阿西小姐姐哟.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/陈不冷啊.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/隔壁小仙女呀.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/雨晴酱owo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/霄婉Aimee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/颖儿Lauren.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/饼饼ui.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/马争儿.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/高冷有只喵.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/鱼儿丶Felicity.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/黎多多多.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/images/齐藤小馒头.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douyu/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/.idea/mySpider.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/spiders/itcastspider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/mySpider/teacher.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mySpider/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunline/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunline/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunline/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunline/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunline/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunline/spiders/questions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sunline/sunlineQeustion.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/.idea/tencent.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/spiders/tPosition.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tencent/tencent/tencent.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,33 +382,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douban/douban/items.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinanews/sinanews/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douban/douban/pipelines.py">
+      <file leaf-file-name="news.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinanews/sinanews/spiders/news.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
-                <element signature="e#192#206#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douban/douban/middlewares.py">
+      <file leaf-file-name="sinaNews.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinanews/sinaNews.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="662">
+              <caret line="16372" column="0" lean-forward="true" selection-start-line="16372" selection-start-column="0" selection-end-line="16372" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,11 +417,19 @@
       <file leaf-file-name="doubanmovie.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/douban/douban/spiders/doubanmovie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="108" lean-forward="true" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinanews/scrapy.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,18 +437,28 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/douban/douban/settings.py">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinanews/sinanews/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinanews/sinanews/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -90,6 +472,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scrapy</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,6 +499,12 @@
         <option value="$PROJECT_DIR$/douban/douban/settings.py" />
         <option value="$PROJECT_DIR$/douban/douban/middlewares.py" />
         <option value="$PROJECT_DIR$/douban/douban/spiders/doubanmovie.py" />
+        <option value="$PROJECT_DIR$/sinanews/Data/星座排行/14544..txt" />
+        <option value="$PROJECT_DIR$/sinanews/sinanews/pipelines.py" />
+        <option value="$PROJECT_DIR$/sinanews/sinanews/settings.py" />
+        <option value="$PROJECT_DIR$/sinanews/sinanews/items.py" />
+        <option value="$PROJECT_DIR$/sinanews/sinanews/spiders/news.py" />
+        <option value="$PROJECT_DIR$/sinanews/sinaNews.log" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -145,6 +538,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,7 +553,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,29 +795,58 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1381" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1553398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25914863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1553398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -441,274 +863,167 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/douban/douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#192#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/spiders/doubanmovie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/娱乐社会/评论：法医题材剧不应只有猎奇案件展示.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/娱乐社会/1koc7.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/娱乐社会/2ux57.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/娱乐社会/2wzge.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻国内/4名中国籍女子涉无证行医 被日本警方逮捕.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻国内/4岁小女孩患蓬发综合征：黑发脱落长出金发(图).txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻国内/5岁男童被“熊孩子”踹骨折 警方喊肇事家人露面.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/娱乐社会/&quot;韩版杉菜&quot;具惠善与昔日清纯形象判若两人.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/游戏新闻搜索/00709.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/游戏新闻搜索/58573.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/游戏新闻搜索/xysp.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/游戏新闻搜索/xpage.txt" />
     <entry file="file://$PROJECT_DIR$/douban/douban/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/settings.py">
+    <entry file="file://$PROJECT_DIR$/sinanews/sinanews/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/spiders/questions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/spiders/tencent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tPosition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/tencentPosition.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="3733" column="0" lean-forward="false" selection-start-line="3733" selection-start-column="0" selection-end-line="3733" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/spiders/tencent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="65" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline.log" />
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunlineQeustion.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" column="81" lean-forward="false" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sunline/sunline/spiders/questions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TencentSpider/TencentSpider/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/douban/movies.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="9582" column="29" lean-forward="false" selection-start-line="9582" selection-start-column="29" selection-end-line="9582" selection-end-column="29" />
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻/国内/03281.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻/国内/08060.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻/国内/12349.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/新闻/国内/中国十大最有前途城市出炉 此地超北京荣登榜首.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/育儿/滚动/656_4.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/育儿/滚动/01203.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/育儿/滚动/01809.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/科技/新闻视频/02365.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/科技/新闻视频/03104.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/1.5T精英型就足够了 宝骏530怎么选.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/7座SUV东风标致5008购车享万元购置税补贴.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/15万预算 看国产品牌中型SUV如何选！.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/00673.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/03834.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/“中日韩之争” 看各品牌SUV哪家强！.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/三国杀 | 高规格自主品牌SUV车型对比.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/三国杀 | 20万左右插电混动SUV车型怎么选.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/三国杀丨12万左右高规格紧凑级车对决.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/三国杀丨手握10万块 热门SUV该如何选.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/实拍吉利全新帝豪 主要在设计和功能上提升.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/好车排行榜 大空间MPV了解下吗？.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/汽车/新观察/好车排行榜 满足各路玩家 2018一季度哪些车最NB.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/财经/军事/*ST天马重要子公司停产：受四川暴雨影响厂区被淹.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/财经/军事/*ST罗顿的生死并购:标的实为代理商 注册资金实缴为0.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/财经/军事/*ST藏旅关于公司监事辞职及补选监事的公告.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/Data/财经/军事/00500.txt" />
+    <entry file="file://$PROJECT_DIR$/sinanews/sinanews/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/settings.py">
+    <entry file="file://$PROJECT_DIR$/sinanews/sinanews/spiders/sinaNews.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/sinanews/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="e#192#206#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/middlewares.py">
+    <entry file="file://$PROJECT_DIR$/sinanews/sinanews/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/douban/douban/spiders/doubanmovie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="108" lean-forward="true" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/sinanews/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/sinanews/spiders/news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sinanews/sinaNews.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="16372" column="0" lean-forward="true" selection-start-line="16372" selection-start-column="0" selection-end-line="16372" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinaNews.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
           <folding />
         </state>
       </provider>
